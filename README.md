@@ -57,6 +57,18 @@ As a passionate **Embedded System Designer**, I specialize in designing and deve
 
 ---
 
+### **Smart Industrial Condition Monitoring System** *(ACTS-CDAC Pune)*
+**Tech Stack:** STM32, ESP32, CAN Bus, UART, SPI, I2C, MQTT, Cloud Computing  
+✅ **Monitors temperature, humidity, vibration, and motion** in an industrial setup.  
+✅ **STM32 Board 1 (Sensor Node):** Reads multiple sensors via **I2C, UART, SPI** and transmits data over **CAN Bus**.  
+✅ **STM32 Board 2 (Gateway Node):** Collects CAN data, processes it, and forwards it to **ESP32 via UART**.  
+✅ **ESP32 (Cloud Node):** Sends processed data to the **cloud via MQTT** for real-time monitoring.  
+✅ Provides **remote monitoring and predictive maintenance** capabilities.  
+
+**Skills:** STM32, ESP32, Embedded C, CAN Bus, UART, SPI, I2C, MQTT, Cloud Computing, Industrial IoT
+
+---
+
 ### **AR Glass - Optical Head Mounted Display** *(SRMCEM, Lucknow)*
 **Tech Stack:** MIT App Inventor, ESP8266, HC-05, OLED Module, Python, Augmented Reality  
 ✅ Lightweight **Optical Head-Mounted Display** with **AR features**  
@@ -111,7 +123,8 @@ As a passionate **Embedded System Designer**, I specialize in designing and deve
 
 ---
 
-## 📫 Connect with Me 
+## 📫 Connect with Me
+- **GitHub:** [github.com/satyadevgithub](https://github.com/satyadevgithub)  
 - **LinkedIn:** [linkedin.com/in/satyadev](https://linkedin.com/in/satyadev)  
 - **Email:** ceo@satyadevmishra.com  
 
