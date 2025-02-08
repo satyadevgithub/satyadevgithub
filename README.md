@@ -125,7 +125,7 @@ As a passionate **Embedded System Designer**, I specialize in designing and deve
 
 ## 📫 Connect with Me
 - **GitHub:** [github.com/satyadevgithub](https://github.com/satyadevgithub)  
-- **LinkedIn:** [linkedin.com/in/satyadev](https://linkedin.com/in/satyadev)  
+- **LinkedIn:** [linkedin.com/in/satya-dev-mishra](https://linkedin.com/in/satya-dev-mishra)  
 - **Email:** ceo@satyadevmishra.com  
 
 ---
