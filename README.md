@@ -1,143 +1,120 @@
-*Satya Dev Mishra*
+# Satya Dev Mishra
 
-    #Current -> PG-DESD -> ACTS-CDAC 
-    #Expertise -> [Embedded || IOT || AI || Data Analytics]
+## 🚀 Current
+- **PG-DESD** @ ACTS-CDAC
+- **Expertise:** Embedded Systems | IoT | AI | Data Analytics
 
-#*About*
-   
-    As a passionate Embedded System Designer, I have a growing expertise in designing and 
-    developing embedded systems, focusing on microcontrollers and real-time operating systems. 
-    I enjoy working with hardware and software to create efficient solutions. My skills include 
-    basic programming in Embedded C and system integration, with hands-on experience in prototyping 
-    and testing. Eager to learn and expand my knowledge, I am driven to tackle challenges and contribute 
-    to innovative projects in industries like automotive, consumer electronics, and IoT.
+---
 
-#*Experience*#
+## 🏆 About Me
+As a passionate **Embedded System Designer**, I specialize in designing and developing embedded systems with a focus on **microcontrollers** and **real-time operating systems**. I enjoy working with both **hardware and software** to create **efficient and innovative solutions**. My expertise includes **Embedded C, system integration, prototyping, and testing**. I am eager to learn, solve complex challenges, and contribute to projects in **automotive, consumer electronics, and IoT industries**.
 
-SRDT Pvt. Ltd.
+---
 
-            Software Engineer - SRDT Pvt. Ltd. 
-            · Full-time Dec 2023 - Mar 2024 · 4 mos
-            Lucknow, Uttar Pradesh, India · On-site
-            PeopleSoft Technical
-    Skills: 
-            · PeopleSoft · Data Analysis · Oracle SQL Develope
-            
-Blue Heart Lab 
-    
-            Embedded Engineer - Blue Heart Lab 
-            · Full-time Dec 2021 - Nov 2023 · 2 yrs 
-            Lucknow, Uttar Pradesh, India · On-site
-            Instructor, Project, R&DInstructor, Project, R&D
-    Skills: 
-            · Raspberry Pi · Embedded C · IBM Watson · Google Sheets · ESP8266 
-            · Arduino IDE · Python (Programming Language) · Internet of Things (IoT) 
-            · Argumental Reality · Artificial Intelligence (AI)
-    
+## 💼 Experience
 
+### **SRDT Pvt. Ltd.** (Dec 2023 - Mar 2024) | Software Engineer *(Full-time, On-site, Lucknow, India)*
+- **Role:** PeopleSoft Technical
+- **Skills:** PeopleSoft, Data Analysis, Oracle SQL Developer
 
-#*Education*
+### **Blue Heart Lab** (Dec 2021 - Nov 2023) | Embedded Engineer *(Full-time, On-site, Lucknow, India)*
+- **Role:** Instructor, Project, R&D
+- **Skills:** Raspberry Pi, Embedded C, IBM Watson, Google Sheets, ESP8266, Arduino IDE, Python, IoT, Augmented Reality, AI
 
-    1. Centre for Development of Advanced Computing (C-DAC)
-    PG-DESD, Embedded System Design Aug 2024 - Feb 2025
-            1. Embedded C Programming
+---
 
-            2. Data Structures and Algorithms
+## 🎓 Education
 
-            3. Microcontroller Programming and Interfacing
+### **Centre for Development of Advanced Computing (C-DAC)** *(Aug 2024 - Feb 2025)*
+**PG-DESD - Embedded Systems Design**  
+- Embedded C Programming
+- Data Structures and Algorithms
+- Microcontroller Programming and Interfacing
+- Embedded Operating Systems
+- Embedded Linux Device Drivers
+- Real-Time Operating Systems
+- Internet of Things (IoT)
 
-            4. Embedded Operating Systems
+**Skills:** Embedded C, ARM Cortex-M, ARM Cortex-A8, RISC-V, IoT, Embedded Linux, UART, PWM, I2C, SPI, ADC, Timers, Interrupts, VS Code
 
-            5. Embedded Linux Device Drivers
+### **Shri Ramswaroop Memorial College of Engineering & Management, Lucknow** *(Jul 2014 - Jun 2018)*
+**Bachelor of Technology - Electronics & Communication Engineering**  
+**Skills:** ESP8266, Google Sheets, Embedded C, Augmented Reality
 
-            6. Real-Time Operating Systems
+---
 
-            7. Internet of Things (IoT)
-         
-    Skills: 
-            · Embedded C · ARM Cortex-M · ARM Cortex-A8 · RISC-V 
-            · Internet of Things (IoT) · Embedded Linux 
-            · Universal Asynchronous Receiver/Transmitter (UART) 
-            · PWM · I2C · SPI · Analog-to-Digital Converters (ADC) 
-            · Timer · Interrupt · Microsoft Visual Studio Code
+## 🔥 Projects
 
+### **High-Performance Computing Cluster with Lustre Parallel File System** *(ACTS-CDAC Pune)*
+**Tech Stack:** Lustre File System, Linux, HPC Clusters, Parallel Computing, Storage Optimization  
+✅ Designed and implemented an **HPC cluster** integrated with **Lustre Parallel File System** for large-scale data processing.  
+✅ Configured **Metadata Server (MDS), Object Storage Servers (OSS), and Object Storage Targets (OST)** for **parallel data access**.  
+✅ Optimized **I/O operations, metadata handling, and storage distribution**.  
+✅ Deployed **load-balancing and fault-tolerant mechanisms** for high availability.  
+✅ Conducted **benchmarking and stress testing** for efficiency evaluation.  
 
+**Skills:** HPC, Lustre File System, Parallel Computing, Linux Administration, Storage Optimization, Cluster Management
 
-    2. SHRI RAMSWAROOP MEMORIAL COLLEGE OF ENGINEERING AND MANAGEMENT, LUCKNOW
-    Bachelor of Technology, Electronics and Communication Engineering Jul 2014 - Jun 2018
-    
-    Skills: 
-            · ESP8266 · Google Sheets · Embedded C · Argumental Reality
+---
 
+### **AR Glass - Optical Head Mounted Display** *(SRMCEM, Lucknow)*
+**Tech Stack:** MIT App Inventor, ESP8266, HC-05, OLED Module, Python, Augmented Reality  
+✅ Lightweight **Optical Head-Mounted Display** with **AR features**  
+✅ **Wireless connectivity** (Wi-Fi, Bluetooth) for real-time updates  
+✅ **Voice command-based control system**  
+✅ Displays **Time, Date, Messages, Notifications, Calls, Weather Reports**  
+✅ **Hands-free virtual and real-world interaction**
 
-#*Projects*#
+**Skills:** Augmented Reality, Embedded C, ESP8266, Google Sheets
 
-AR Glass - Optical Head Mounted Display
+---
 
-    Associated with SHRI RAMSWAROOP MEMORIAL COLLEGE OF ENGINEERING AND MANAGEMENT, LUCKNOW
-        Optical Head-Mounted Display
-         MIT App Inventor, ESP-8266 Wi-Fi Module, HC-05 Bluetooth Module, 0.96 inch OLED Module, Python
-         Based on Augmented reality
-         Wireless(Wi-Fi, Bluetooth) Connection
-         All hardware set up in Eyeglasses
-         Hardware is very light
-         Voice Command-based control system
-         Time, Date, Text Message, Notifications, Calling, Weather Report
-         Feel like All Things Show in Air
-         Enjoy the virtual world and the real world both at the same timeOptical Head-Mounted Display 
-    Skills: 
-            · Argumental Reality · Embedded C · ESP8266 · Google Sheets
+### **Face Recognition Based Office Attendance System** *(Blue Heart Lab)*
+**Tech Stack:** Python, OpenCV, AI-ML  
+✅ **Automatic Attendance** via **Face Recognition**  
 
+**Skills:** Python, Artificial Intelligence, OpenCV
 
-Face Recognition Based Office attendance system
+---
 
-    Associated with Blue Heart Lab
-        Face Recognition Based Office attendance system 
-         Python, OpenCV, AI-ML 
-         Automatic Attendance By Face RecognitionFace Recognition Based Office attendance system 
-    Skills: 
-            · Python (Programming Language) · Artificial Intelligence (AI)
+### **Home Automation - IoT** *(Blue Heart Lab)*
+**Tech Stack:** MIT App Inventor, ESP32, Relay Board, Python  
+✅ **Control Home Electrical Components Remotely** using a phone  
+✅ **IoT-based Smart Home System**  
 
+**Skills:** Embedded C, IBM Watson, IoT, ESP8266
 
-Home Automation - IOT
+---
 
-    Associated with Blue Heart Lab
-        Home Automation – IOT 
-         MIT App Inventor, ESP-32 Wi-Fi Module, Relay Board, Python 
-         Hardware set up in Light Board 
-         Home All Electric Component Controlled by Phone from Any WhereHome Automation – IOT
-    Skills: 
-            · Embedded C · IBM Watson · Internet of Things (IoT) · ESP8266
+### **Multimedia University, Cyberjaya, Malaysia** *(SRDT Pvt. Ltd.)*
+**Tech Stack:** Oracle SQL, PeopleSoft, Data Analysis  
+✅ **Converted Classic PIA Components** to **PeopleSoft Fluid UI**  
+✅ **Upgraded & Enhanced** MMU’s Academic, Counselling, Finance, and Training modules  
 
+**Skills:** Oracle SQL Developer, PeopleSoft, Data Analysis
 
-Multimedia University, Cyberjaya, Malaysia
+---
 
-    Associated with SRDT Pvt. Ltd.
-        Multimedia University, Cyberjaya, Malaysia 
-         Converting Classic PIA Components to PeopleSoft Fluid User Interface 
-         MMU Upgrade and Enhancements Project 
-         Fluid Pages(Android and IOS Responsive and Adaptive), Components design for Academics, Counselling, 
-        Campus Finance, Industrial Training Program… & for many other departments 
-    Skills: 
-            · Oracle SQL Developer · PeopleSoft · Data Analysis
+### **Robot Design - Embedded** *(Blue Heart Lab)*
+**Tech Stack:** Arduino, Motor Driver, Ultrasonic Sensor, HC-05, Embedded C  
+✅ **Obstacle Avoiding & Bluetooth Controlled Robot**  
 
+**Skills:** Embedded C, Arduino IDE
 
-Robot Design - Embedded
+---
 
-    Associated with Blue Heart Lab
-        Robot Design 
-         Arduino Development Board, Motor, Motor Driver, Ultrasonic Sensor, HC-05 Bluetooth Module, Embedded C 
-         Obstacle Avoiding, Bluetooth ControlRobot Design 
-    Skills: 
-            · Embedded C · Arduino IDE
+### **Security Alarm System - IoT** *(Blue Heart Lab)*
+**Tech Stack:** IBM Watson Bluemix, ESP32, IR Sensor, Python  
+✅ **Security Breach Notification via Call & Message**  
 
+**Skills:** Embedded C, IBM Watson, IoT, ESP8266
 
-Security Alarm System - IOT
+---
 
-    Associated with Blue Heart Lab
-        Security Alert System 
-         IBM Watson Bluemix, ESP-32 Wi-Fi Module, IR Sensor, Python 
-         Security Breach inform by Call, MessageSecurity Alert System 
-    Skills: 
-            · Embedded C · IBM Watson · Internet of Things (IoT) · ESP8266
+## 📫 Connect with Me 
+- **LinkedIn:** [linkedin.com/in/satyadev](https://linkedin.com/in/satyadev)  
+- **Email:** ceo@satyadevmishra.com  
 
+---
+
+🚀 *Always eager to learn, explore, and innovate in Embedded Systems, IoT, and AI!*
