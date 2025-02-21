@@ -1,25 +1,49 @@
 # Satya Dev Mishra
 
 ## 🚀 Current
-- **PG-DESD** @ ACTS-CDAC
-- **Expertise:** Embedded Systems | IoT | AI | Data Analytics
+- **PG-DESD** @ ACTS-CDAC Pune 
+- **Expertise:** C | C++ | DSA | STM32 | ARM Cortex | RISC V | RTOS | Embedded Operating System | Device Driver | Firmware Development | Linux kernel Development | Lustre Parallel File System
 
 ---
 
-## 🏆 About Me
-As a passionate **Embedded System Designer**, I specialize in designing and developing embedded systems with a focus on **microcontrollers** and **real-time operating systems**. I enjoy working with both **hardware and software** to create **efficient and innovative solutions**. My expertise includes **Embedded C, system integration, prototyping, and testing**. I am eager to learn, solve complex challenges, and contribute to projects in **automotive, consumer electronics, and IoT industries**.
+## 👋 About Me  
+
+I am a passionate and detail-oriented **Embedded Systems Engineer** with a strong foundation in **Embedded Device Drivers, Kernel Module Development, IoT, ARM Cortex-M3/M4, and RISC-V**. With a deep understanding of **low-level programming, real-time operating systems (RTOS), and hardware-software integration**, I enjoy solving complex technical challenges to build **efficient and reliable embedded solutions**.  
+
+Currently, I am expanding my expertise in **Linux kernel development, peripheral interfacing, and optimizing embedded applications for performance and power efficiency**. I am eager to apply my skills in a **dynamic environment** that values **innovation, problem-solving, and continuous learning**.  
+
+I am actively looking for opportunities in **Embedded Systems Development, Firmware Engineering, and Device Driver Development**. Let's connect and explore possibilities! 🚀  
 
 ---
 
-## 💼 Experience
+---
 
-### **SRDT Pvt. Ltd.** (Dec 2023 - Mar 2024) | Software Engineer *(Full-time, On-site, Lucknow, India)*
-- **Role:** PeopleSoft Technical
-- **Skills:** PeopleSoft, Data Analysis, Oracle SQL Developer
+## 💼 Work Experience
 
-### **Blue Heart Lab** (Dec 2021 - Nov 2023) | Embedded Engineer *(Full-time, On-site, Lucknow, India)*
-- **Role:** Instructor, Project, R&D
-- **Skills:** Raspberry Pi, Embedded C, IBM Watson, Google Sheets, ESP8266, Arduino IDE, Python, IoT, Augmented Reality, AI
+## SRDT Pvt Ltd, Lucknow, Uttar Pradesh  
+**Software Engineer Trainee | PeopleSoft Technical Consultant**  
+📅 (Dec 2023 – Mar 2024)  
+
+- Designed and customized **Fluid pages, dashboards, and UI components** for higher education institutions.  
+- Developed **PeopleSoft Campus Solutions 9.2 workflows** to enhance user experience and efficiency.  
+- Implemented **responsive design principles** for cross-platform compatibility (mobile & desktop).  
+
+---
+
+## Blue Heart Lab, Lucknow, Uttar Pradesh  
+**Embedded Systems Engineer – R&D and Low-Level Software Development**  
+📅 (Nov 2020 – Nov 2023)  
+
+- Designed and developed **low-level firmware** and **real-time embedded systems** for IoT and robotics applications.  
+- Developed **custom device drivers** for **ARM Cortex-M3/M4, RISC-V**, and various embedded platforms.  
+- Worked on **embedded Linux kernel development**, including writing and optimizing **Linux device drivers**.  
+- Led **R&D projects in robotics and autonomous systems**, integrating **sensors, motor controllers, and real-time algorithms**.  
+- Designed and implemented **drone flight control systems**, including navigation, stabilization, and wireless communication protocols.  
+- Conducted **hands-on training** on **microcontrollers, peripheral interfacing (UART, SPI, I2C, CAN), RTOS, and FreeRTOS**.  
+- Developed **IoT-based smart devices**, focusing on **power efficiency, secure communication (MQTT, REST APIs), and cloud integration**.  
+- Mentored students and engineers in **problem-solving, embedded software development, and hardware-software integration**.  
+ 
+
 
 ---
 
