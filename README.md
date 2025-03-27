@@ -18,31 +18,6 @@ I am actively looking for opportunities in **Embedded Systems Development, Firmw
 
 ---
 
-## 💼 Work Experience
-
-## SRDT Pvt Ltd, Lucknow, Uttar Pradesh  
-**Software Engineer Trainee | PeopleSoft Technical Consultant**  
-📅 (Dec 2023 – Mar 2024)  
-
-- Designed and customized **Fluid pages, dashboards, and UI components** for higher education institutions.  
-- Developed **PeopleSoft Campus Solutions 9.2 workflows** to enhance user experience and efficiency.  
-- Implemented **responsive design principles** for cross-platform compatibility (mobile & desktop).  
-
----
-
-## Blue Heart Lab, Lucknow, Uttar Pradesh  
-**Embedded Systems Engineer – R&D and Low-Level Software Development**  
-📅 (Nov 2020 – Nov 2023)  
-
-- Designed and developed **low-level firmware** and **real-time embedded systems** for IoT and robotics applications.  
-- Developed **custom device drivers** for **ARM Cortex-M3/M4, RISC-V**, and various embedded platforms.  
-- Worked on **embedded Linux kernel development**, including writing and optimizing **Linux device drivers**.  
-- Led **R&D projects in robotics and autonomous systems**, integrating **sensors, motor controllers, and real-time algorithms**.  
-- Designed and implemented **drone flight control systems**, including navigation, stabilization, and wireless communication protocols.  
-- Conducted **hands-on training** on **microcontrollers, peripheral interfacing (UART, SPI, I2C, CAN), RTOS, and FreeRTOS**.  
-- Developed **IoT-based smart devices**, focusing on **power efficiency, secure communication (MQTT, REST APIs), and cloud integration**.  
-- Mentored students and engineers in **problem-solving, embedded software development, and hardware-software integration**.  
- 
 
 
 ---
@@ -149,7 +124,6 @@ I am actively looking for opportunities in **Embedded Systems Development, Firmw
 
 ## 📫 Connect with Me
 - **GitHub:** [github.com/satyadevgithub](https://github.com/satyadevgithub)  
-- **LinkedIn:** [linkedin.com/in/satya-dev-mishra](https://linkedin.com/in/satya-dev-mishra)  
 - **Email:** ceo@satyadevmishra.com  
 
 ---
