@@ -16,12 +16,6 @@ I am actively looking for opportunities in **Embedded Systems Development, Firmw
 
 ---
 
----
-
-
-
----
-
 ## 🎓 Education
 
 ### **Centre for Development of Advanced Computing (C-DAC)** *(Aug 2024 - Feb 2025)*
